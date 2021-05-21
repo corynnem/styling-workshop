@@ -26,7 +26,7 @@ const styles = {
   },
 };
 
-//  styled object turns into a funciton when passed an imported style component
+//  styled object turns into a function when passed an imported style component
 const NewHeader = styled(Header)`
   font-size: 1em;
   font-style: italic;
